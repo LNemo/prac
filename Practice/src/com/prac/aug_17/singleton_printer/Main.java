@@ -1,4 +1,4 @@
-package comprac.aug_17.singleton_printer;
+package com.prac.aug_17.singleton_printer;
 
 //싱글톤 패턴을 사용한 프린터 예제
 
