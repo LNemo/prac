@@ -9,7 +9,7 @@ public class Main {
 			@Override
 			public void Ab_method() {
 				
-				// *Ãß»óÅ¬·¡½º¸¦ ¹Ù·Î ¾²±â ¶§¹®¿¡* ÀÌ°÷¿¡¼­ ±¸ÇöÀ» ÇØÁà¾ßÇÔ
+				// *ì¶”ìƒí´ë˜ìŠ¤ë¥¼ ë°°ë¡œ ì“°ê¸° ë•Œë¬¸ì—" ì´ê³³ì—ì„œêµ¬í˜„ì„ í•´ì¤˜ì•¼ í•¨
 				
 			}
 		};
@@ -19,13 +19,13 @@ public class Main {
 			@Override
 			public void In_method() {
 				
-				// *ÀÎÅÍÆäÀÌ½º¸¦ ¹Ù·Î ¾²±â ¶§¹®¿¡* ÀÌ°÷¿¡¼­ ±¸ÇöÀ» ÇØÁà¾ßÇÔ
+				// *ì¸í„°í˜ì´ìŠ¤ë¥¼ ë°”ë¡œ ì“°ê¸° ë•Œë¬¸ì—* ì´ê³³ì—ì„œ êµ¬í˜„ì„ í•´ì¤˜ì•¼ í•¨
 				
 			}
 		};
 		
-		ab.Ab_method(); // anonymous class »ç¿ë
-		it.In_method(); // anonymous class »ç¿ë
+		ab.Ab_method(); // anonymous class ì‚¬ìš©
+		it.In_method(); // anonymous class ì‚¬ìš©
 		
 	}
 	

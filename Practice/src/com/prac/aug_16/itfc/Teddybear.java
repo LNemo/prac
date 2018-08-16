@@ -4,7 +4,7 @@ public class Teddybear implements MoveArmLeg {
 
 	public Teddybear() {
 		// TODO Auto-generated constructor stub
-		System.out.println("°õÀÎÇü");
+		System.out.println("ê³°ì¸í˜•");
 		canMoveArmLeg();
 		System.out.println("=====================");
 	}
@@ -12,7 +12,7 @@ public class Teddybear implements MoveArmLeg {
 	@Override
 	public void canMoveArmLeg() {
 		// TODO Auto-generated method stub
-		System.out.println("ÆÈ, ´Ù¸®¸¦ ¿òÁ÷ÀÏ ¼ö ÀÖ½À´Ï´Ù.");
+		System.out.println("íŒ”, ë‹¤ë¦¬ë¥¼ ì›€ì§ì¼ ìˆ˜ ìˆìŠµë‹ˆë‹¤.");
 	}
 
 }

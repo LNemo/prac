@@ -4,7 +4,7 @@ public class Robot implements MoveArmLeg, Missile {
 
 	public Robot() {
 		// TODO Auto-generated constructor stub
-		System.out.println("·Îº¿");
+		System.out.println("ë¡œë´‡");
 		canMissile();
 		canMoveArmLeg();
 		System.out.println("=====================");
@@ -13,13 +13,13 @@ public class Robot implements MoveArmLeg, Missile {
 	@Override
 	public void canMissile() {
 		// TODO Auto-generated method stub
-		System.out.println("¹Ì»çÀÏÀ» ¹ß»çÇÒ ¼ö ÀÖ½À´Ï´Ù.");
+		System.out.println("ë¯¸ì‚¬ì¼ì„ ë°œì‚¬í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.");
 	}
 
 	@Override
 	public void canMoveArmLeg() {
 		// TODO Auto-generated method stub
-		System.out.println("ÆÈ, ´Ù¸®¸¦ ¿òÁ÷ÀÏ ¼ö ÀÖ½À´Ï´Ù.");
+		System.out.println("íŒ”, ë‹¤ë¦¬ë¥¼ ì›€ì§ì¼ ìˆ˜ ìˆìŠµë‹ˆë‹¤.");
 		
 	}
 	

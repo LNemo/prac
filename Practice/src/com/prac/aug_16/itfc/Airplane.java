@@ -4,7 +4,7 @@ public class Airplane implements Light, Missile{
 
 	public Airplane() {
 		// TODO Auto-generated constructor stub
-		System.out.println("ºñÇà±â");
+		System.out.println("ë¹„í–‰ê¸°");
 		canLight();
 		canMissile();
 		System.out.println("=====================");
@@ -13,14 +13,14 @@ public class Airplane implements Light, Missile{
 	@Override
 	public void canMissile() {
 		// TODO Auto-generated method stub
-		System.out.println("¹Ì»çÀÏÀ» ¹ß»çÇÒ ¼ö ÀÖ½À´Ï´Ù.");
+		System.out.println("ë¯¸ì‚¬ì¼ì„ ë°œì‚¬í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.");
 		
 	}
 
 	@Override
 	public void canLight() {
 		// TODO Auto-generated method stub
-		System.out.println("ºÒºûÀ» ¹ß»çÇÒ ¼ö ÀÖ½À´Ï´Ù.");
+		System.out.println("ë¹›ì„ ë°œì‚¬í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.");
 	}
 	
 }
