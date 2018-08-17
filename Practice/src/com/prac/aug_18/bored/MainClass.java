@@ -26,7 +26,7 @@ public class MainClass {
 			}
 			
 		}
-		
+		sc.close();
 	}
 	
 }
