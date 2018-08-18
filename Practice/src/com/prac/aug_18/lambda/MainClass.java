@@ -4,7 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		LambdaItfc1 ld1 = (String s1, String s2, String s3) -> {System.out.println(s1 + " " + s2 + " " + s3);};
+		LambdaItfc1 ld1 = (s1, s2, s3) -> {System.out.println(s1 + " " + s2 + " " + s3);};
 		ld1.method("Hello", "Java", "World");
 		
 		LambdaItfc2 ld2 = (s1) -> {System.out.println(s1);};
